@@ -1,2 +1,2 @@
-# password_generator
+# password generator
 Password Generator Script written in python
